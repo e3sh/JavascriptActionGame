@@ -1,0 +1,48 @@
+@charset "Shift_JIS";
+
+* {
+	margin:0; padding:0; 	/*全要素のマージン・パディングをリセット*/
+} 
+
+div {
+	visibility: visible ;
+	border-radius: 10px;
+	position : absolute;
+	border : 3px solid DimGray ;
+	border-top-width : 1px;
+	border-left-width : 1px;
+	
+}
+
+div#manual_1 
+{
+	width : 280px;
+	height :110px;
+	top :480px ;
+	left:0px ;
+}
+	
+div#manual_2 
+{
+	width : 350px;
+	height :110px;
+	top :480px ;
+	left:288px ;
+}
+
+div#console 
+{
+	width : 350px;
+	height :460px;
+	top :0px ;
+	left:0px ;
+}
+
+canvas
+{
+	width : 640px;
+	height :480px;
+	top :0px ;
+	left:0px ;
+	position : absolute;
+}
