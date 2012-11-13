@@ -1,1 +1,1 @@
-Javascirpt/HTML Canvas —‰ğ‚Ìˆ×‚ÌKì
+ï»¿Javascirpt/HTML Canvas ç†è§£ã®ç‚ºã®ç¿’ä½œ
