@@ -4,7 +4,7 @@
 ===
 <https://e3sh.github.io/JavascriptActionGame>  
   
-使用HTML5要素  　　　  　  　 
+使用HTML5要素  
 [(canvas)(audio)(localStorage)使用］  
   
 **操作：**  
